@@ -1,0 +1,49 @@
+.Content{
+    position: center;
+    padding-bottom:50px ;
+    padding-top: 50px;
+
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fffef0;
+}
+
+td{
+    width: 500px;
+}
+
+td img{
+    width: 200px;
+    height: 400px;
+    object-fit: cover;
+    background-color: #545454;
+    border-radius: 3px;
+    padding:10px ;
+}
+
+button{
+    font-family: Bahnschrift;
+    width: 100px;
+    height: 50px;
+    background-color: #3d4252;
+    border: 5px solid #282c34;
+    color: #fffed4;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #4e5273;
+    border: 5px solid #3f4681;
+}
+
+.add{
+    padding-right: 170px ;
+}

@@ -1,0 +1,39 @@
+ [
+		{
+			"nome": "Heavy",
+			"imagem": "heavy.png",
+			"armaPrimaria": "Minigun",
+			"armaSecundaria": "Shotgun",
+			"descricao": "Classe de defesa com mais vida do jogo.",
+			"grupo": "Defesa"
+		},{
+			"nome": "Demoman",
+			"imagem": "demoman_laught.png",
+			"armaPrimaria": "Lança Granadas",
+			"armaSecundaria": "Lança Granadas Adesivas",
+			"descricao": "Classe de defesa focada em dano em área e detruição de contruções",
+			"grupo": "Defesa"
+		},{
+			"nome": "Engineer",
+			"imagem": "engineer.png",
+			"armaPrimaria": "Shotgun",
+			"armaSecundaria": "Pistola",
+			"descricao": "Classe de defesa capaz de contruir sentinelas, dispensadores e teletransportadores para ajudar a equipa.",
+			"grupo": "Defesa"
+		},{
+			"nome": "Medic",
+			"imagem": "medic.png",
+			"armaPrimaria": "Arma de Seringas",
+			"armaSecundaria": "Healing",
+			"descricao": "Classe de suporte com a habelidade de curar aliados.",
+			"grupo": "Suporte"
+		},{
+			"nome": "Pyro",
+			"imagem": "pyro.png",
+			"armaPrimaria": "Lança Chamas",
+			"armaSecundaria": "Pistola",
+			"descricao": "Classe de ataque com a capacidade de dar grande dano em area.",
+			"grupo": "Ataque"
+		}
+
+]

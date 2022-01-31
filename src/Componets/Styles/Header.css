@@ -1,0 +1,40 @@
+#title{
+    position: absolute;
+    padding: 0;
+    margin-top: 0;
+}
+
+.Header{
+    width: 100%;
+    padding-top: 0;
+    background-color: hsla(240 27% 18% / 1);
+    color: #fffed4;
+}
+
+button{
+    font-family: Bahnschrift;
+    width: 100px;
+    height: 50px;
+    background-color: #3d4252;
+    border: 5px solid #282c34;
+    color: #fffed4;
+    border-radius: 5px;
+}
+
+#menu{
+    padding-bottom: 20px;
+    width: 400px
+}
+
+.active button{
+    background-color: #4e5273;
+    border: 5px solid #3f4681;
+}
+/*
+
+hsl(240,27,18)
+hsl(52,17,91)
+hsl(201,45,54)
+hsl(232,17,35)
+
+ */

@@ -1,0 +1,7 @@
+.Footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: hsla(240 27% 18% / 0.5 );
+    color: #fffed4;
+}
